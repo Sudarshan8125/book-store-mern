@@ -22,7 +22,7 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/utsingh14/book-store-mern.git
+git clone https://github.com/Sudarshan8125/book-store-mern.git
 cd book-store-mern
 ```
 
